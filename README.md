@@ -1,0 +1,1 @@
+# sigfox_to_thinger
